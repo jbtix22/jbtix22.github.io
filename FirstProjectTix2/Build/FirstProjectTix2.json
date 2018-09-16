@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Getting Sarted",
-"dataUrl": "FirstProjectTix.data.unityweb",
-"wasmCodeUrl": "FirstProjectTix.wasm.code.unityweb",
-"wasmFrameworkUrl": "FirstProjectTix.wasm.framework.unityweb",
+"dataUrl": "FirstProjectTix2.data.unityweb",
+"wasmCodeUrl": "FirstProjectTix2.wasm.code.unityweb",
+"wasmFrameworkUrl": "FirstProjectTix2.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
